@@ -23,3 +23,7 @@
   color: #e1373b;
 }
 
+.App-body {
+  display: flex;
+  /* justify-content: flex-start; */
+}

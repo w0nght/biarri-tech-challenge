@@ -46,7 +46,8 @@ const employees = [{
 }, {
     "lastName": "Cyan",
     "firstName": "Rachel",
-    "id": 2644
+    "id": 2644,
+    "roleId": 2
 }, {
     "lastName": "Magenta",
     "firstName": "John",
@@ -63,3 +64,5 @@ const employees = [{
     "id": 2647,
     "roleId": 1
 }]
+
+export default employees;

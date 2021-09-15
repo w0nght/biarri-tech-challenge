@@ -14,3 +14,5 @@ const roles = [{
     "id": 3,
     "textColour": "#000000"
 }]
+
+export default roles;
